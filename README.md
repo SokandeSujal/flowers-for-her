@@ -1,1 +1,1 @@
-# flowers-for-her
+# This project, 'Flowers for Her,' was created for a client, and I was paid for developing the webpage. If it had been for personal use, I would have kept it private, but I am sharing it to showcase my skills.
